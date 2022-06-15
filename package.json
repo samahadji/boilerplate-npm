@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author" : "Samson Ahadji"
+	"author" : "Samson Ahadji",,
+	"description" : "Boilerplate project to practice NPM"
 }
