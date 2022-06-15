@@ -13,5 +13,6 @@
 	},
 	"author" : "Samson Ahadji",
 	"description" : "Boilerplate project to practice NPM",
-	"keywords" : [ "npm", "freecodecamp" , "curriculum" ]
+	"keywords" : [ "npm", "freecodecamp" , "curriculum" ],
+	"license": "MIT"
 }
