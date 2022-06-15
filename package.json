@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author" : "Samson Ahadji",
-	"description" : "Boilerplate project to practice NPM"
+	"description" : "Boilerplate project to practice NPM",
+	"keywords" : [ "npm", "freecodecamp" , "curriculum" ]
 }
